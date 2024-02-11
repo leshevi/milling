@@ -54,10 +54,6 @@ body {
     text-transform: uppercase;
 }
 
-.main {
-    background-position: top center;
-    overflow: hidden;
-}
 
 .header {
     padding: 40px 0;
@@ -149,14 +145,6 @@ body {
     left: calc(100% - 591px);
 }
 
-.why {
-    background-position: top center;
-    background-size: initial;
-    padding-bottom: 180px;
-}
-
-
-
 .why-items {
     margin-top: 60px;
     display: grid;
@@ -180,11 +168,6 @@ body {
     line-height: 140%;
 }
 
-.products {
-    background-position: top center;
-    background-size: 1400px;
-    padding-bottom: 180px;
-}
 
 .products-items {
     display: grid;
@@ -248,12 +231,6 @@ body {
     margin-right: 10px;
 }
 
-.order {
-    background-position: top center;
-    background-repeat: no-repeat;
-    padding-bottom: 180px;
-    overflow: hidden;
-}
 
 .order .container {
     position: relative;
