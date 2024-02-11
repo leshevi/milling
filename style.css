@@ -55,7 +55,7 @@ body {
 }
 
 .main {
-    background-image: url("./images/main_bg.ipg");
+    background-image: url("./images/main_bg.png");
     background-position: top center;
     overflow: hidden;
 }
