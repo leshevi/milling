@@ -5,12 +5,12 @@
 
 @font-face {
     font-family: "Gilroy";
-    src: url("../fonds/Gilroy-Semibold.ttf");
+    src: url("./fonds/Gilroy-Semibold.ttf");
 }
 
 @font-face {
     font-family: "Merriweather";
-    src: url("../fonds/Merriweather-Black.ttf");
+    src: url("./fonds/Merriweather-Black.ttf");
 }
 
 body {
@@ -55,7 +55,7 @@ body {
 }
 
 .main {
-    background-image: url("../images/main_bg.ipg");
+    background-image: url("./images/main_bg.ipg");
     background-position: top center;
     overflow: hidden;
 }
@@ -130,7 +130,7 @@ body {
 }
 
 .main-title {
-    font-size: 120px;
+    font-size: 100px;
     font-family: 'Merriweather', sans-serif;
     line-height: 156px;
     letter-spacing: 3.60px;
@@ -151,7 +151,7 @@ body {
 }
 
 .why {
-    background-image: url("../images/whybg.png");
+    background-image: url("./images/whybg.png");
     background-position: top center;
     background-size: initial;
     padding-bottom: 180px;
@@ -183,7 +183,7 @@ body {
 }
 
 .products {
-    background-image: url("../images/burgers_bg.png");
+    background-image: url("./images/burgers_bg.png");
     background-position: top center;
     background-size: 1400px;
     padding-bottom: 180px;
@@ -252,7 +252,7 @@ body {
 }
 
 .order {
-    background-image: url("../images/order_bg.png");
+    background-image: url("./images/order_bg.png");
     background-position: top center;
     background-repeat: no-repeat;
     padding-bottom: 180px;
