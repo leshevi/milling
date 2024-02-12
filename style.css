@@ -20,7 +20,7 @@ body {
 }
 
 .container {
-    max-width: 1400px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
@@ -310,6 +310,6 @@ body {
 
 .video {
     background-position: top center;
-    background-size: 1400px;
+    background-size: 1200px;
     padding-bottom: 180px;
 }
