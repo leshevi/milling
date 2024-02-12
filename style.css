@@ -99,7 +99,7 @@ body {
     height: 45px;
     text-align: center;
     cursor: pointer;
-    margin-left: auto;
+    margin-left: 100px;
     font-size: 18px;
     user-select: none;
 }
