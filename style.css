@@ -299,11 +299,11 @@ body {
 .footer .container {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .rights {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 20px;
 }
 
