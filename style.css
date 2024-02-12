@@ -307,3 +307,8 @@ body {
     line-height: 20px;
 }
 
+.video {
+    background-position: top center;
+    background-size: 1400px;
+    padding-bottom: 180px;
+}
