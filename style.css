@@ -147,7 +147,7 @@ body {
 .why-items {
     margin-top: 90px;
     display: grid;
-    gap: 30px;
+    gap: 20px;
     grid-template-columns: repeat(3,312px);
     justify-content: center;
 }
