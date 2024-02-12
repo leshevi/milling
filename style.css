@@ -239,7 +239,6 @@ body {
     position: absolute;
     top: 145px;
     right: calc(100% - 564px);
-    z-index: -1;
 }
 
 .order-form {
