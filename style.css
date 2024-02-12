@@ -237,7 +237,7 @@ body {
 
 .order-image {
     position: absolute;
-    top: 245px;
+    top: 205px;
     right: calc(100% - 564px);
     z-index: 1;
 }
