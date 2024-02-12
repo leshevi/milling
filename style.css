@@ -237,8 +237,9 @@ body {
 
 .order-image {
     position: absolute;
-    top: 300px;
-    right: calc(100% - 464px);
+    top: 145px;
+    right: calc(100% - 564px);
+    z-index: -1;
 }
 
 .order-form {
