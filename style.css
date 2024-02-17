@@ -192,7 +192,7 @@ body {
 }
 
 .products-item-image {
-    height: 250px;
+    height: 200px;
 }
 
 .products-item-image img {
@@ -263,7 +263,7 @@ body {
 }
 
 .order-form-text {
-    font-size: 10px;
+    font-size: 15px;
     line-height: 29px;
     text-align: center;
     color: #fff;
