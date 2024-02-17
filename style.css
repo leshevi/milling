@@ -145,6 +145,12 @@ body {
     top: 203px;
 }
 
+.why {
+    background-position: top center;
+    background-size: 1200px;
+    padding-bottom: 180px;
+}
+
 .why-items {
     margin-top: 90px;
     display: grid;
