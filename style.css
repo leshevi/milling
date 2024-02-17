@@ -149,7 +149,7 @@ body {
 }
 
 .why {
-    background-position: top center;
+    background-position: center;
     background-size: 1200px;
     padding-bottom: 180px;
     padding-left: 70px;
@@ -505,5 +505,6 @@ body {
 
     .why {
       background-position: center;
+      padding-left: 70px;
     }
   }
