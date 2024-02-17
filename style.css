@@ -236,10 +236,14 @@ body {
     position: relative;
 }
 
-.order-image {
-    
+#order-image {
+    float: left;
+    display: block;
+    width: 430px;  
+}
 
 .order-form {
+    display: block;
     border-radius: 16px;
     border: 1px solid #353535;
     background: #211A16;
