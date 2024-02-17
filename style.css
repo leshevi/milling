@@ -143,6 +143,8 @@ body {
 .main-image {
     position: sticky;
     top: 203px;
+    width: 1200px;
+
 }
 
 .why {
