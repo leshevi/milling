@@ -257,13 +257,14 @@ body {
     width: 426px;
     padding: 60px 40px;
     box-sizing: border-box;
-    margin-left: 574px;
+    margin-left: 474px;
 }
 
 .order-form-text {
-    font-size: 19px;
+    font-size: 10px;
     line-height: 29px;
     text-align: center;
+    color: #fff;
 }
 
 .order-form-inputs {
